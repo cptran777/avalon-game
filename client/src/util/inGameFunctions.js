@@ -225,5 +225,6 @@ module.exports = {
     token.position.z = 10;
 
     scene.add(token);
+    
   }
 };
