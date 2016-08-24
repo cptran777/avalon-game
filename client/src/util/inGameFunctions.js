@@ -56,7 +56,7 @@ module.exports = {
       uid,
       x: 0,
       y: 0,
-      color,
+      color: this.roleColors['defaultColor'],
       role: this.roleColors['defaultColor'],
       pos: circlePos
     });      
